@@ -32,6 +32,7 @@ This project performs a comprehensive analysis of the Netflix dataset using Pyth
 **Jupyter Notebook:** For performing the analysis in an interactive environment.
 
 **Project Highlights:**
+
 Visualized data with bar graphs, heatmaps, and count plots.
 
 Grouped and filtered data to answer specific queries about Netflix content.
